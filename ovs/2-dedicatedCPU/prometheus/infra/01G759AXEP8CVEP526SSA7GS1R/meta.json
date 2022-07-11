@@ -1,0 +1,17 @@
+{
+	"ulid": "01G759AXEP8CVEP526SSA7GS1R",
+	"minTime": 1656950400353,
+	"maxTime": 1656957600000,
+	"stats": {
+		"numSamples": 3748616,
+		"numSeries": 15626,
+		"numChunks": 31245
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01G759AXEP8CVEP526SSA7GS1R"
+		]
+	},
+	"version": 1
+}

@@ -1,0 +1,17 @@
+{
+	"ulid": "01G6WFT46QXT3HS40SFVN58JV5",
+	"minTime": 1656655200353,
+	"maxTime": 1656662400000,
+	"stats": {
+		"numSamples": 3735501,
+		"numSeries": 17898,
+		"numChunks": 33347
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01G6WFT46QXT3HS40SFVN58JV5"
+		]
+	},
+	"version": 1
+}

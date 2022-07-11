@@ -1,0 +1,17 @@
+{
+	"ulid": "01G7A4NG80C3N1FC1DGVBP1WMT",
+	"minTime": 1657116200756,
+	"maxTime": 1657124077469,
+	"stats": {
+		"numSamples": 4242557,
+		"numSeries": 16143,
+		"numChunks": 48405
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01G7A4NG80C3N1FC1DGVBP1WMT"
+		]
+	},
+	"version": 1
+}

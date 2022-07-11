@@ -1,0 +1,17 @@
+{
+	"ulid": "01G74VKEYPMKP6150J9M62E1PP",
+	"minTime": 1656936000353,
+	"maxTime": 1656943200000,
+	"stats": {
+		"numSamples": 3808640,
+		"numSeries": 16221,
+		"numChunks": 31877
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01G74VKEYPMKP6150J9M62E1PP"
+		]
+	},
+	"version": 1
+}

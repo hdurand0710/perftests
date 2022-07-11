@@ -1,0 +1,17 @@
+{
+	"ulid": "01G7ESGDAB1GPE1S0G602BDVTH",
+	"minTime": 1657272360978,
+	"maxTime": 1657280147157,
+	"stats": {
+		"numSamples": 3112551,
+		"numSeries": 13972,
+		"numChunks": 36992
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01G7ESGDAB1GPE1S0G602BDVTH"
+		]
+	},
+	"version": 1
+}

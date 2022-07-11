@@ -1,0 +1,17 @@
+{
+	"ulid": "01G7404HYR2RF750TDG1AJAM38",
+	"minTime": 1656907200353,
+	"maxTime": 1656914400000,
+	"stats": {
+		"numSamples": 3713040,
+		"numSeries": 15471,
+		"numChunks": 30942
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01G7404HYR2RF750TDG1AJAM38"
+		]
+	},
+	"version": 1
+}

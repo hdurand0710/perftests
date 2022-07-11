@@ -1,0 +1,17 @@
+{
+	"ulid": "01G7774EPKC3DAWB0Q36GBCC5H",
+	"minTime": 1657015200586,
+	"maxTime": 1657022400000,
+	"stats": {
+		"numSamples": 3726528,
+		"numSeries": 21620,
+		"numChunks": 37085
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01G7774EPKC3DAWB0Q36GBCC5H"
+		]
+	},
+	"version": 1
+}

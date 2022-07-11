@@ -1,0 +1,17 @@
+{
+	"ulid": "01G7EHMNYBYWH37VZG1XS8TCRG",
+	"minTime": 1657263740756,
+	"maxTime": 1657271890336,
+	"stats": {
+		"numSamples": 4342883,
+		"numSeries": 16131,
+		"numChunks": 48047
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01G7EHMNYBYWH37VZG1XS8TCRG"
+		]
+	},
+	"version": 1
+}

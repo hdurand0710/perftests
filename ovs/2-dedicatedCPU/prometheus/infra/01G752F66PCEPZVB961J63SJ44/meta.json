@@ -1,0 +1,17 @@
+{
+	"ulid": "01G752F66PCEPZVB961J63SJ44",
+	"minTime": 1656943200353,
+	"maxTime": 1656950400000,
+	"stats": {
+		"numSamples": 3793714,
+		"numSeries": 15867,
+		"numChunks": 31727
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01G752F66PCEPZVB961J63SJ44"
+		]
+	},
+	"version": 1
+}
