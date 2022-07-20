@@ -1,0 +1,17 @@
+{
+	"ulid": "01G890A4YDRQBPSJXK9X13Y68W",
+	"minTime": 1658149100423,
+	"maxTime": 1658159691633,
+	"stats": {
+		"numSamples": 3852884,
+		"numSeries": 14265,
+		"numChunks": 38097
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01G890A4YDRQBPSJXK9X13Y68W"
+		]
+	},
+	"version": 1
+}

@@ -1,0 +1,17 @@
+{
+	"ulid": "01G7VQA04642MGCYFR58V83ZSM",
+	"minTime": 1657706400027,
+	"maxTime": 1657714044385,
+	"stats": {
+		"numSamples": 3161907,
+		"numSeries": 13405,
+		"numChunks": 36782
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01G7VQA04642MGCYFR58V83ZSM"
+		]
+	},
+	"version": 1
+}

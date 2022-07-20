@@ -1,0 +1,17 @@
+{
+	"ulid": "01G88BG7GAPAXWE15A7KJJ0KCV",
+	"minTime": 1658128074774,
+	"maxTime": 1658137876414,
+	"stats": {
+		"numSamples": 3988823,
+		"numSeries": 14370,
+		"numChunks": 38605
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01G88BG7GAPAXWE15A7KJJ0KCV"
+		]
+	},
+	"version": 1
+}

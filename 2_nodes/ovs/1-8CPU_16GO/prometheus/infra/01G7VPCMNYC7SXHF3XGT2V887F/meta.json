@@ -1,0 +1,17 @@
+{
+	"ulid": "01G7VPCMNYC7SXHF3XGT2V887F",
+	"minTime": 1657702280755,
+	"maxTime": 1657706400000,
+	"stats": {
+		"numSamples": 2242319,
+		"numSeries": 16907,
+		"numChunks": 16907
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01G7VPCMNYC7SXHF3XGT2V887F"
+		]
+	},
+	"version": 1
+}
