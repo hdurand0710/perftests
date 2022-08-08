@@ -1,0 +1,17 @@
+{
+	"ulid": "01G73S8TPMTVTFJSEN8WGXT7TQ",
+	"minTime": 1656900000353,
+	"maxTime": 1656907200000,
+	"stats": {
+		"numSamples": 3713040,
+		"numSeries": 15471,
+		"numChunks": 30942
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01G73S8TPMTVTFJSEN8WGXT7TQ"
+		]
+	},
+	"version": 1
+}

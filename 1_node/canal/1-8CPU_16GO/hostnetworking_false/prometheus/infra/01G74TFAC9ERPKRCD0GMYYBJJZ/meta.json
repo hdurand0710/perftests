@@ -1,0 +1,17 @@
+{
+	"ulid": "01G74TFAC9ERPKRCD0GMYYBJJZ",
+	"minTime": 1656936000353,
+	"maxTime": 1656945613394,
+	"stats": {
+		"numSamples": 5085821,
+		"numSeries": 16221,
+		"numChunks": 47737
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01G74TFAC9ERPKRCD0GMYYBJJZ"
+		]
+	},
+	"version": 1
+}

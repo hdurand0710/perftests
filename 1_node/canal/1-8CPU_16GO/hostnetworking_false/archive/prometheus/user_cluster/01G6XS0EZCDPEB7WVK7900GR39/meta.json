@@ -1,0 +1,17 @@
+{
+	"ulid": "01G6XS0EZCDPEB7WVK7900GR39",
+	"minTime": 1656698400004,
+	"maxTime": 1656705600000,
+	"stats": {
+		"numSamples": 2512082,
+		"numSeries": 13817,
+		"numChunks": 22818
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01G6XS0EZCDPEB7WVK7900GR39"
+		]
+	},
+	"version": 1
+}

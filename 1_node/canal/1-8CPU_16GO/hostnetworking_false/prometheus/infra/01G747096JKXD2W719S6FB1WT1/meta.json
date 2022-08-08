@@ -1,0 +1,17 @@
+{
+	"ulid": "01G747096JKXD2W719S6FB1WT1",
+	"minTime": 1656914400353,
+	"maxTime": 1656921600000,
+	"stats": {
+		"numSamples": 3727384,
+		"numSeries": 17875,
+		"numChunks": 33346
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01G747096JKXD2W719S6FB1WT1"
+		]
+	},
+	"version": 1
+}
